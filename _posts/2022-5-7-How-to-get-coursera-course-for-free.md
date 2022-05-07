@@ -29,9 +29,11 @@ For availing benefits, it is recommended to enter annual income as zero and ente
 
 
 Next you will be asked to answer a few questions, first being
-" *Why are you applying for financial aid ?*"
 
-(==The answers should be written in 150 words. A sample answer has been attached below, it is adviced to write on in order to avoid getting rejected.==)
+
+**"Why are you applying for financial aid ?"**
+
+#### (The answers should be written in 150 words. A sample answer has been attached below, it is adviced to write on in order to avoid getting rejected.)
 
 > Sample answer
 
