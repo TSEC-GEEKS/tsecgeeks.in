@@ -8,7 +8,7 @@ Hello Geeks,
 
 Welcome! In this article, I am going to demonstrate how you can get the coursera paid courses free of cost. This process is applicable for any paid course whether technical or non-technical. Process remains the same for all cases.
 
-Let's start,
+Let's get started,
 
 ### STEP 1:
 Go to [Coursera's website.](https://www.coursera.org). and navigate to the course you wish to enroll in.
@@ -44,6 +44,11 @@ Here they will ask you questions like how much can you pay for the course and *H
 
 ### STEP 5:
  Submit your application and wait for 15 days to receive a response!
+ Check your mail, once approved - you will recieve an email something like this.
+ 
+ ![financial aid button](2.png)
+ 
+ 
 ---
 
 
@@ -55,7 +60,7 @@ Here they will ask you questions like how much can you pay for the course and *H
 
 ---
 posted by,
-Sarah Khan _in colabration with Anas Khan._
+Sarah Khan _co authoered by Anas Khan._
 
  Connect with the geeks on
  [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
