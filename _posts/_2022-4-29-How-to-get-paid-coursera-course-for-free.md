@@ -10,18 +10,18 @@ Welcome! In this article, I am going to show you How to get the coursera paid co
 
 Let's start,
 
-### STEP1:
+### STEP 1:
 Go to coursera's website. Or click here <https://www.coursera.org/>
 Select the course you want to enroll
 
-### STEP2:
+### STEP 2:
  Click on 'financial aid available'.
  
 ![financial aid button](1.png)
 
 A popup window with a warning that it will take 15 days to review etc. will appear. Click on continue to the application.
 
-### STEP3:
+### STEP 3:
 Now you have to fill your **background information** like college degree, annual income (Type "0"), employment status (student) etc.
 
 Next question will ask you,
@@ -31,9 +31,9 @@ Next question will ask you,
 
 > Sample answer
 
-> I am a First year IT student at Thadomal Sahani Engg college in India. As I am in Technical field and as per my interest and curiosity to learn I want this course of Data science on coursera, but the course is paid and as I am a student I don't have any source of income right now and I am totally dependent on my family for my education which doesn't makes me feel good.It will be very difficult for me to gather such amount of money. Financial aid will help me take this course without any adverse impact on my monthly essentials.I am very committed to undertake the course and explore data science field.A verified certificate from coursera will make my resume impressive which in turn will help me in my placements. I promise to complete all the assignments within the deadlines. I will also take part in discussions and will also help the other peers if they need help from me.
+> I am a first-year bachlor of engineering student at Thadomal Sahani Engineering College. Because I work in the technical field and have a strong desire to learn, I am interested in taking this Data Science course on Coursera. However, the course is paid, and as a student, I currently do not have any source of income and am completely reliant on my family to support my education. Financial aid will enable me to complete this course with ease. I am determined to complete the course and learn more about the subject of data science. A certified certificate from Coursera will enhance my résumé, which will aid me in my job search. I pledge to finish all assignments by the due dates. I will also participate in conversations and assist my peers if they require assistance.
 
-### Step4:
+### STEP 4:
 #### Part 2 of the application form.
 Here they will ask you questions like how much can you pay for the course and *How will this course help you with your goals*,etc.
 (Again this is the subjective question)
@@ -42,12 +42,12 @@ Here they will ask you questions like how much can you pay for the course and *H
 
 >As I am studying Information technology , this course is very useful for my career and also a verified certificate from coursera will help me improve my resume and stand out among the crowds. I am very much committed and interested in learning and exploring this field. This course will help me perform better in my career as a Data Scientist and provide me with a strong base. The competition in today's world is very hard to deal with and every body wants to have a upper hand. To learn from the best in their field is always a privelege , and for course such as this will be amazing as it has a lot of potential in future to become one of the most demanding job. Having an expertise will give me a boosts in the initial stage. Further , I really want to make progress and implement it.
 
-### Step5:
+### STEP 5:
  Submit your application and wait for 15 days to receive a response!
 ---
 
 
- That's it for today.I hope this post Helped y'all.
+ That's it for today. I hope this post helped y'all.
  
  Thank you! :smile:
 
