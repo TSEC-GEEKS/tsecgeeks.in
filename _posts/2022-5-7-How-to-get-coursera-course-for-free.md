@@ -54,7 +54,7 @@ Here they will ask you questions like how much can you pay for the course and *H
 
 ### Step 5:
  Submit your application and wait for 15 days to receive a response!
- Check your mail, once approved - you will recieve an email something like this.
+ Check your mail, once approved - you will receive an email something like this.
  
  
 ![Approved Email]({{ site.baseurl }}/images/coursera2.png "Approved Email")
