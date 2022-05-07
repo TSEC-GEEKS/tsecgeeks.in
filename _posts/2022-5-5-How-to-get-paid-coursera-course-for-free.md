@@ -10,12 +10,12 @@ Welcome! In this article, I am going to demonstrate how you can get the coursera
 
 Let's get started,
 
-### STEP 1:
+### Step 1:
 Go to [Coursera's website.](https://www.coursera.org) and navigate to the course you wish to enroll in.
 #### We will advise you to enrol in reputable and well-reviewed courses. [Link to those is here.](https://www.coursera.org/professional-certificates/)
 
 
-### STEP 2:
+### Step 2:
  Beneath the course description, you'll find and option to apply financial aid. Click on 'financial aid available'.
  
  
@@ -24,7 +24,7 @@ Go to [Coursera's website.](https://www.coursera.org) and navigate to the course
 A popup window shall appear informing you about the application review period. Click on continue to the application.
 
 
-### STEP 3:
+### Step 3:
 Now you have to fill your **background information**.
 For availing benefits, it is recommended to enter annual income as zero and enter employment status as student.
 
@@ -40,7 +40,7 @@ Next you will be asked to answer a few questions, first being
 
 
 
-### STEP 4:
+### Step 4:
 #### Part 2 of the application form.
 Here they will ask you questions like how much can you pay for the course and *How will this course help you with your goals*, etc.
 (Again this is the subjective question)
@@ -52,7 +52,7 @@ Here they will ask you questions like how much can you pay for the course and *H
 
 
 
-### STEP 5:
+### Step 5:
  Submit your application and wait for 15 days to receive a response!
  Check your mail, once approved - you will recieve an email something like this.
  
@@ -65,19 +65,24 @@ Here they will ask you questions like how much can you pay for the course and *H
 
  That's it for today. I hope this post helped y'all.
  
- Thank you! :smile:
+ Thank you!
 
 
 ----
 
 
 posted by,
-Sarah Khan _co authoered by Anas Khan._
+**Sarah Khan** _co authoered by Anas Khan._
+
 
 
 If you have any suggestions, drop an email - [hello@tsecgeeks.in](mailto:hello@tsecgeeks.in) 
 
 
+
+
 Feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl) 
+
+
 
 ----
