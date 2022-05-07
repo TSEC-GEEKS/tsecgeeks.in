@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get paid coursera course for free!
+title: How to get paid coursera course for free.
 ---
 
 Hello Geeks,
@@ -38,7 +38,6 @@ Next you will be asked to answer a few questions, first being
 > I am a first-year bachelor of engineering student at Thadomal Sahani Engineering College. As I work in the technical field and have a strong desire to learn, I am interested in taking this Data Science course on Coursera. However, the course is paid, and as a student, I currently do not have any source of income and am completely reliant on my family to support my education. Financial aid will enable me to complete this course with ease. I am determined to complete the course and learn more about the subject of data science. A certified certificate from Coursera will enhance my résumé, which will aid me in my job search. I pledge to finish all assignments by the due dates. I will also participate in conversations and assist my peers if they require assistance.
 
 
-
 ### Step 4:
 #### Part 2 of the application form.
 Here they will ask you questions like how much can you pay for the course and *How will this course help you with your goals*, etc.
@@ -63,14 +62,11 @@ Here they will ask you questions like how much can you pay for the course and *H
  Thank you!
 
 
-
-
 ----
 
 
-
 posted by,
-**Sarah Khan** _co authoered by Anas Khan._
+**Sarah Khan** _co authored by Anas Khan._
 
 
 
@@ -78,9 +74,7 @@ If you have any suggestions, drop an email - [hello@tsecgeeks.in](mailto:hello@t
 
 
 
-
 Feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl) 
-
 
 
 ----
