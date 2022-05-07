@@ -5,7 +5,6 @@ title: How to get paid coursera course for free!
 
 Hello Geeks,
 
-
 Welcome! In this article, I am going to demonstrate how you can get the coursera paid courses free of cost. This process is applicable for any paid course whether technical or non-technical. Process remains the same for all cases.
 
 Let's get started,
@@ -48,7 +47,7 @@ Here they will ask you questions like how much can you pay for the course and *H
 
 > Sample answer
 
-> As I am enrolled in a technical degree, this course will be highly beneficial to my profession, and a certified certificate from Coursera will help me strengthen my résumé and stand out from the crowd. I am very enthusiastic in learning about and exploring this topic. This training will improve my performance as a Data Scientist and provide me with a solid foundation. In today's world, competition is fierce, and everyone strives for a competitive advantage. The competition in today's world is very hard to deal with and every body wants to have a upper hand. Learning from the greatest in their area is always a privilege, and for a course like this, it will be even better because it has a lot of potential to become one of the most challenging jobs in the future. Having experience will help me get forward in the beginning. I also want to make progress and put it into practise. 
+> As I am enrolled in a technical degree, this course will be highly beneficial to my profession, and a certified certificate from Coursera will help me strengthen my résumé and stand out from the crowd. I am very enthusiastic in learning about and exploring this topic. This training will improve my performance as a Data Scientist and provide me with a solid foundation. In today's world, competition is fierce, and everyone strives for a competitive advantage. The competition in today's world is very hard to deal with and every body wants to have a upper hand. Learning from the greatest in their area is always a privilege, and for a course like this, it will be even better because it has a lot of potential to become one of the most challenging jobs in the future. Having experience will help me get forward in the beginning. I also want to make progress and put it into practise. 
 
 
 
@@ -59,16 +58,15 @@ Here they will ask you questions like how much can you pay for the course and *H
  
 ![Approved Email]({{ site.baseurl }}/images/coursera2.png "Approved Email")
 
- 
----
-
-
  That's it for today. I hope this post helped y'all.
  
  Thank you!
 
 
+
+
 ----
+
 
 
 posted by,
