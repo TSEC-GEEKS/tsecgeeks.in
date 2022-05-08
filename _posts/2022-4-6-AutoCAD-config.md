@@ -3,8 +3,6 @@ layout: post
 title: Configure your AutoCAD with these settings.
 ---
 
-Hello geeks,
-
 In this article, I am providing all the configuration of AutoCAD as suggested by our professors.
 
 ## Commands
