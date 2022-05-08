@@ -3,7 +3,7 @@ layout: post
 title: Configure your AutoCAD with these settings.
 ---
 
-AutoCAD configurations to get started.
+_AutoCAD configurations to get started._
 
 In this article, I am providing all the configuration of AutoCAD as suggested by our professors.
 
