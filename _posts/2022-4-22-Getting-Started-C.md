@@ -3,7 +3,7 @@ layout: post
 title: Getting Started with C Programming
 ---
 
-Hello geeks,
+_Covers Setup, Basic Structure of Program, Hello World, Explanation of Terms_
 
 In this article, I am going to show you how to get started with C Programming in TurboC.
 
