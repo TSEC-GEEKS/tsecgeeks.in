@@ -3,7 +3,7 @@ layout: post
 title: Conquer - an attempt at building a useful productivity app
 ---
 
-This blog is going to be about a productivity app - its journey, obstacles, technical and product details.
+_This blog is going to be about a productivity app - its journey, obstacles, technical and product details._
 
 the app is called Conquer ([web](https://conquer-goals.netlify.app), [android](https://github.com/devout-coder/conquer-rn-app/releases))
 
