@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Get your free copy of AutoCAD with Student Verification.
+title: Get your free copy of AutoCAD.
 ---
 
-Hello Geeks,
-
-This short post is to help you get AutoCAD software on your system at no costs.
+This short post is to guide you to get AutoCAD on your system at no costs using Student Verification.
 
 Firstly you need to visit [Autodesk educational products website.](https://www.autodesk.com/education/edu-software)
 
