@@ -3,10 +3,9 @@ layout: post
 title: How to get GitHub Student Pack
 ---
 
-Hello Geeks,
+Availing GitHub Student Developer Pack, using your university email address instantly!
 
-In this article, I am going to show you how you can avail GitHub Student Developer Pack.
-It is a bundle full of tools and services provided by various tech companies.
+GitHub Student Developer Pack is a bundle full of tools and services provided by various tech companies.
 
 #### Prerequisites
 
