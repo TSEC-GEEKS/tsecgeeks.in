@@ -3,7 +3,7 @@ layout: post
 title: How to get paid coursera course for free.
 ---
 
-Hello Geeks,
+Availing coursera courses for free, a step by step guide.
 
 Welcome! In this article, I am going to demonstrate how you can get the coursera paid courses free of cost. This process is applicable for any paid course whether technical or non-technical. Process remains the same for all cases.
 
