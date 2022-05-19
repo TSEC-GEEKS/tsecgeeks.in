@@ -17,6 +17,6 @@ Feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K
 
 
 
-This post was brought to you by Anas Khan & Ninad Nike
+This post was brought to you by Anas Khan & Ninad Naik
 
 If you have any suggestions, drop an email - [anas@tsecgeeks.in](mailto:anas@tsecgeeks.in) [ninad@tsecgeeks.in](mailto:ninad@tsecgeeks.in) 
