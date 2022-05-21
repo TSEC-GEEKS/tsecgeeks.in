@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![TSEC Geeks Logo]({{ site.baseurl }}/android-chrome-512x512.png "Welcome to TSEC Geeks")
 
 👋 Good day, everyone! 
 *TSEC Geeks* is pleased to welcome you.
