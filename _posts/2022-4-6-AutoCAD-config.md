@@ -57,6 +57,10 @@ As of now, these are the settings we need to apply before starting our project i
 If you have anything to add here, you can email me on the address given below.
 Join our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
 
+# Guided Tutorial
+If you're having trouble setting up Units and Limits, check out this video by Manas Patnaik showing you how to set up Units and Limits in AutoCad setep-by-step:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VVTbbAI7m_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 Posted by Ninad Naik ([ninad@tsecgeeks.in](mailto:ninad@tsecgeeks.in))
