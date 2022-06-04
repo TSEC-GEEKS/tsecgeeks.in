@@ -7,7 +7,7 @@ _AutoCAD configurations to get started._
 
 In this article, I am providing all the configuration of AutoCAD as suggested by our professors.
 
-## Commands
+## Units and Limits
 
 The first thing we need to do is to specify our work area and create a rectangle.
 
@@ -17,21 +17,23 @@ The first thing we need to do is to specify our work area and create a rectangle
 
 > **RECTANGLE** &rarr; 0, 0 &#8626; Enter; 600, 400 &#8626; Enter
 
-## Configuration
+## Layers
 
 ### Layer Properties Manager
 
 We need to create layers to get different styles of lines. 
 
-| **Layer**  | **Color** | **Linetype**  |
-|---|---|---|
-| Construction  | 252  | Continuous  |
-| Center  | Yellow  | CENTER2  |
-| Dimension  | Cyan  | Continuous  |
-| Hidden  | 254  | HIDDEN2  |
-| Hatch  | Magenta  | Continuous  |
+|   **Layer**  | **Color** | **Linetype** |
+|:------------:|:---------:|:------------:|
+| Construction |    252    |  Continuous  |
+|    Center    |   Yellow  |    CENTER2   |
+|   Dimension  |    Cyan   |  Continuous  |
+|    Hidden    |    254    |    HIDDEN2   |
+|     Hatch    |  Magenta  |  Continuous  |
 
-### Dimension Style Manager
+<!--- This Table is made using https://www.tablesgenerator.com/markdown_tables --->
+
+## Dimensions
 
 
 
