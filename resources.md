@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-[C Crash Course- UT1 FE-SEM 2 CP Codes](https://github.com/TSEC-GEEKS/tsecgeeks.in/raw/master/CProgramming.zip)
+CP Sem 2 Programs [Link 1](https://github.com/anxkhn/MU-C-Programming) [Link 2](https://github.com/SumilSuthar197/CP_QUESTION_BANK) [Link 3](https://github.com/sarthak0714/CcodesforUT2) [Link 4](https://github.com/AryanS88/Cp-Ut-prep)
 
 [How to get AutoCAD for free.](https://tsecgeeks.in/AutoCAD-for-free/)
 
