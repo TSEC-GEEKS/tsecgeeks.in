@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-CP Sem 2 Programs [Link 1](https://github.com/anxkhn/MU-C-Programming) [Link 2](https://github.com/SumilSuthar197/CP_QUESTION_BANK) [Link 3](https://github.com/sarthak0714/CcodesforUT2) [Link 4](https://github.com/AryanS88/Cp-Ut-prep)
+CP Sem 2 Programs [#1](https://github.com/anxkhn/MU-C-Programming) [#2](https://github.com/SumilSuthar197/CP_QUESTION_BANK) [#3](https://github.com/sarthak0714/CcodesforUT2) [#4](https://github.com/AryanS88/Cp-Ut-prep)
 
 [How to get AutoCAD for free.](https://tsecgeeks.in/AutoCAD-for-free/)
 
