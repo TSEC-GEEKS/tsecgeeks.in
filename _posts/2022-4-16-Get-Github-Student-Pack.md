@@ -107,7 +107,7 @@ Install the extension and sign in using the prompt. Make sure to give access of 
 
 After doing this, you would be able to use GitHub Copilot.
 
-Note: As this tool is helpful, use it fairly. It is always better to write code on your own and be less dependent on such tools.
+**Note**: As this tool is helpful, use it fairly. It is always better to write code on your own and be less dependent on such tools.
 
 That's it, you are all set to for the hands-on learning experience.
 
