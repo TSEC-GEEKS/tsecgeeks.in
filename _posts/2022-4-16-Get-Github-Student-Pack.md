@@ -85,6 +85,30 @@ You will also **get Github Pro Badge** on your profile.
 
 ![Success]({{ site.baseurl }}/images/github5.png "Success.")
 
+## GitHub Copilot is FREE for students
+
+### What is GitHub Copilot?
+
+GitHub Copilot is an AI pair programmer that suggests lines of code based on the context from comments and code. It is available as an extension Visual Studio Code, Visual Studio, Neovim, and JetBrains IDE. It is available for everyone at $10 a month. However, it is free for open source developers and students. You can try it out using your existing student developer pack.
+
+To signup, visit [github.com/github-copilot/signup/](https://github.com/github-copilot/signup/).
+
+Sign in with your GitHub account.
+
+![GitHub Copilot](https://user-images.githubusercontent.com/86565419/175058232-348822ee-b5f8-42c7-b2b8-83079f143024.png)
+
+Follow the simple steps, and you are good to go.
+
+Open your IDE. VSCode in this case.
+
+![image](https://user-images.githubusercontent.com/86565419/175059128-34036f8d-107a-4bfd-8230-c69bb3a5161b.png)
+
+Install the extension and sign in using the prompt. Make sure to give access of your GitHub account to the IDE.
+
+After doing this, you would be able to use GitHub Copilot.
+
+Note: As this tool is helpful, use it fairly. It is always better to write code on your own and be less dependent on such tools.
+
 That's it, you are all set to for the hands-on learning experience.
 
 Feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl) 
