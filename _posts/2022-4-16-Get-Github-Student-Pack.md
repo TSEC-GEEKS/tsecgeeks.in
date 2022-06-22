@@ -89,9 +89,9 @@ You will also **get Github Pro Badge** on your profile.
 
 ### What is GitHub Copilot?
 
-GitHub Copilot is an AI pair programmer that suggests lines of code based on the context from comments and code. It is available as an extension Visual Studio Code, Visual Studio, Neovim, and JetBrains IDE. It is available for everyone at $10 a month. However, it is free for open source developers and students. You can try it out using your existing student developer pack.
+GitHub Copilot is an AI pair programmer that suggests lines of code based on the context from comments and code. It is available as an extension for Visual Studio Code, Visual Studio, Neovim, and JetBrains IDE. It is available for everyone at $10 a month. However, it is free for open source developers and students. You can try it out using your existing student developer pack.
 
-To signup, visit [github.com/github-copilot/signup/](https://github.com/github-copilot/signup/).
+To sign up, visit [github.com/github-copilot/signup/](https://github.com/github-copilot/signup/).
 
 Sign in with your GitHub account.
 
