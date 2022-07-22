@@ -23,6 +23,6 @@ Oh, and this isn't your coding group—though we do talk about it— but it's mo
 
 Free free to connect with us on 
 
-WhatsApp : [Invite](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
+WhatsApp : [Invite](data:text/html;base64,PCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+PGEgaHJlZj0iaHR0cHM6Ly9jaGF0LndoYXRzYXBwLmNvbS9LM05yVzV0UHdyc0hoZmJkWXN0akxsIj5Kb2luIFdoYXRzQXBwIEdyb3VwLjwvYT48L2hlYWQ+PGJvZHk+PC9ib2R5PjwvaHRtbD4=)
 
 Email : [hello@tsecgeeks.in](mailto:hello@tsecgeeks.in)
