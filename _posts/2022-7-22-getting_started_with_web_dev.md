@@ -39,7 +39,7 @@ At this point you can also consider using a service like Firebase, it provides y
 
 _Resources: [using react with firebase](https://www.youtube.com/watch?v=jCY6DH8F4oc)_
 
-_Project recommendation: A reddit clone_
+_Project recommendation: Extend the todo list app you created, add google authentication, store tasks in firestore._
 
 ## Backend and Database: flex about being a web developer after this
 
