@@ -60,3 +60,5 @@ _Project recommendation: Twitter clone_
 The world of web development is ever evolving. So, your journey doesn't end but actually starts after following all the above steps. Build tons of projects. There are so many things you can learn after this. Learn typescript, its a statically typed (avoid bugs in production by making your life hell while writing code) replacement of javascript. Try to get deeper into the framework you have worked with, also don't shy away from exploring other frameworks which suit your project.
 
 Thats all for today, thank you for patiently reading till the end. If you have anything to add or any questions or suggestions, feel free to hit me up on my socials([twitter](https://twitter.com/devout_coder), [insta](https://instagram.com/devout_coder)).
+
+Crafted and posted by [Pranil](https://www.github.com/devout-coder).
