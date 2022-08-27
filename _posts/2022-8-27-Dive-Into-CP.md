@@ -45,8 +45,14 @@ Hackerrank > Prepare By Topics > Choose A Language.
 
 ### Level 2: Practice. 
 Now is the time to dig codeforces or codechef. 
+
+
 **Getting Started on** [codechef](https://www.codechef.com/selflearning/0to1stars) , [codeforces](https://codeforces.com/problemset?Order=BY_RATING_ASC) 
+
+
 **Problems on** [codechef](https://www.codechef.com/practice?End_rating=999) , [codeforces](https://codeforces.com/problemset?Order=BY_RATING_ASC) .
+
+
 *( difficulty increasing progressively )* 
 
 
