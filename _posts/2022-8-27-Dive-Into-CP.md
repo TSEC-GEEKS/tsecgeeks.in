@@ -35,7 +35,7 @@ If we take a broader look, and zoom out a little from this scenario — it emula
 
 ### How to get started with CP?
 
-### 1: Learn a language. 
+### Level 1: Learn a language. 
 
 #### Which programming language to choose from?
 
@@ -101,7 +101,7 @@ Note: Writing the code is the easiest thing to do. Thinking about how should you
 
 ### Contests to look if you are beginner : 
 
-- [AtCoder's](atcoder.jp), ABC every Saturday 5 PM IST
+- [AtCoder's](https://atcoder.jp), ABC every Saturday 5 PM IST
 - [Codechef](https://www.codechef.com), STARTER every Wednesday 8 PM IST
 
 #### Some Prestigious Contests:
