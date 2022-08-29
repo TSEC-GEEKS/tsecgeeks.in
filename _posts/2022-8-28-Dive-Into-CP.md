@@ -4,7 +4,7 @@ title: Dive Into CP
 ---
 
 
-# Key Takeaways from TSEC CodeCell's Dive Into Code
+_Key Takeaways from TSEC CodeCell's Dive Into Code_
 
 - Seminar by [Saket Thota](https://codeforces.com/profile/palindroam) & [Tushar Nankani](https://codeforces.com/profile/tusharnankani)  
 - Note: [*Last Year's Virtual Seminar By CodeCell*](https://www.youtube.com/watch?v=IHPjbt2BMW8)
