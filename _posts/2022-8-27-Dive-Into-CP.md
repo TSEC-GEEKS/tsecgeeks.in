@@ -56,7 +56,7 @@ Then, move to [Problem Solving](https://www.hackerrank.com/domains/algorithms).
 
 Now, could be the time to take a shot at platforms like [Codeforces](http://codeforces.com), [Codechef](https://www.codechef.com), etc. 
 
-- **Getting Started on** [Codechef](https://www.codechef.com/selflearning/0to1stars), [Codeforces](https://codeforces.com/problemset?Order=BY_RATING_ASC) 
+- **Getting Started on** [Codechef](https://www.codechef.com/selflearning/0to1stars), [Codeforces](https://codeforces.com/blog/entry/99660) 
 
 - **Problems on** [Codechef](https://www.codechef.com/practice?End_rating=999) , [Codeforces](https://codeforces.com/problemset?Order=BY_RATING_ASC) .
 
