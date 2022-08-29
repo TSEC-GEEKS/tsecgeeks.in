@@ -8,12 +8,12 @@ title: Dive Into CP
 Seminar by [Saket Thota](https://codeforces.com/profile/palindroam)  & [Tushar Nankani](https://codeforces.com/profile/tusharnankani) 
 || [*Virtual Seminar By CodeCell*](https://www.youtube.com/watch?v=IHPjbt2BMW8)
 
-##### Author's note: Please do read the entire post and visit the approprate links where attached. A great care has been taken into writing this and formulating the resources. If you come some new term, please do not assume and learn it's meaning. 
+##### Author's note: Please do read the entire post and visit the approprate links where attached. A great care has been taken into writing this and formulating the resources. If you come across some new term, please do not assume and learn it's meaning. 
 
-### What is CP?
+### What is CP (Competitive Programming?
 
 
-Competitive Programming. It's more of a mind sport than a coding challenge.
+CP (Competitive Programming) is more of a mind sport than a coding challenge.
 CP is all about time constraint and accuracy .
 
 
@@ -39,7 +39,7 @@ Java syntax can be overwhelming . Python is not recommended to start, it will sp
 #### How do I get started with learning a language?
 Any place which covers the basics right works.
 Opinion: Focus more on doing it than sticking to books or tutorials. A great place to evaluate your skills can be hackerrank. 
-Hackerrank > Prepare By Topics > Choose A Language.
+Hackerrank > Choose A Language > Prepare By Topics, level gradually increases.
 
 
 
@@ -53,7 +53,7 @@ Now is the time to dig codeforces or codechef.
 **Problems on** [codechef](https://www.codechef.com/practice?End_rating=999) , [codeforces](https://codeforces.com/problemset?Order=BY_RATING_ASC) .
 
 
-*( difficulty increasing progressively )* 
+*( difficulty increases progressively )* 
 
 
 
@@ -66,7 +66,7 @@ Give contests with your peer group *(more at the end)*. Now after giving a conte
 
 
 
-#### Some contests suggestions.
+#### Approch To give Contests.
 
 Strategies :
 - Solving effectively
@@ -76,19 +76,19 @@ Strategies :
 
 **Upsolving**: 
 Solve the sums you couldn't do. Look at others code their way of implementation.
-While reading editorial. Now just don't read the entire code.
-Read one line try to think what next line might be, next second line...and so on.
+While reading editorial. While you read Editorial, just don't read the entire code.
+Read one line try to think what next line might be, second line...and so on.
 If you don't understand, then see the whole code.
 
 
 
 ### Mistakes To Avoid.
 Avoid switching between problems.
-Now if you're coding your subconscious mind keeps thinking about the previous question. So don't switch in between problems until and unless you've exhausted your thoughts.
+Now whem you're coding, your subconscious mind keeps thinking about the previous question. So it is recommended to not switch in between problems until and unless you've exhausted your thoughts.
 
 One thing, don't solve a same rating problem continuously. There will be a point where you'll realize that you're comfortable with these level sums. Increase the difficulty gradually. 
 
-For beginners please don't wait to solve complete tutorials. Chances are you'll forget overtime. Practice.
+For beginners, please don't wait to solve complete tutorials. Chances are you'll forget overtime. Practice.
 
 Writing the code is the easiest thing to do. 
 Thinking about how should you proceed and finding the corner case is something which will make you a problem solver. Then comes implementation.
@@ -99,23 +99,24 @@ Read the problem statement properly. Don't use the hint until it's too necessary
 
 ### Contests to look if you are beginner : 
 - [Atcoders.jp](atcoders.jp), ABC every Saturday 5 pm 
-- [Codechef](https://www.codechef.com), STAERTER every Wednesday 8 pm
+- [Codechef](https://www.codechef.com), STARTER every Wednesday 8 pm
 
 
 
 
 #### Some Prestigious Contests:
-- ICPC (Internation Collegiate Programming Contest)
+- ICPC (International Collegiate Programming Contest)
 - Google Kickstart
 - Hashcode 
 - FB Hackercup
 - Codechef Snackdown
 
 
-
+#### Advice from Speakers
+   Stay consistent, consistent, consistent ! One day you might achieve the 5 :star: rating. Kudos!
 
 ### Looking for peers?
-If you are beginner and looking for peers or post contest discussions, you are free to join
+You all are welcome to join our whatsapp group for post contests discussions or any problems.
 
 
 [WhatsApp Group.](https://chat.whatsapp.com/JBDDrdrIMaOKFSRaE09Pd1)
