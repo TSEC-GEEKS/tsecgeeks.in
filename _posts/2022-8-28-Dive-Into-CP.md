@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dive Into CP
+title: Dive Into Competitive Programming
 ---
 
 
