@@ -14,7 +14,7 @@ CP Sem 2 Programs [#1](https://github.com/anxkhn/MU-C-Programming) [#2](https://
 
 ### Academic Resources
 
-[Infomaina](https://roshni-sarda.github.io/INFOMANIA/about.html)
+[Infomania](https://roshni-sarda.github.io/INFOMANIA/about.html)
 
 [FE TSEC Resources doc](https://docs.google.com/document/d/1sU2QGSZ2bvsSytDvS51Gyw53NLL1g7pulpRpuodPEIM/edit?usp=sharing)
 
