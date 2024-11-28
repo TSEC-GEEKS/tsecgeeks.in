@@ -57,7 +57,7 @@ We need to create layers to get different styles of lines.
 
 As of now, these are the settings we need to apply before starting our project in AutoCAD.
 If you have anything to add here, you can email me on the address given below.
-Join our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
+Join our ~~WhatsApp Group~~ (edit: **REMOVED** )
 
 # Guided Tutorial
 If you're having trouble setting up Units and Limits, check out this video by Manas Patnaik showing you how to set up Units and Limits in AutoCad step-by-step:
@@ -65,4 +65,4 @@ If you're having trouble setting up Units and Limits, check out this video by Ma
 
 ---
 
-Posted by Ninad Naik ([ninad@tsecgeeks.in](mailto:ninad@tsecgeeks.in))
+Posted by Ninad Naik 

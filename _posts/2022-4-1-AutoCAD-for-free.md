@@ -55,7 +55,7 @@ Hover over the _blue INSTALL_ button and click on **DOWNLOAD** from the drop dow
 Download should start anytime now. Install it.
 
 + Do note the download size is almost 2.4GB (2GB+400MB) make sure you have appropriate bandwidth for the same.
-  - If you are on data crunch, feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl) 
+  - If you are on data crunch, feel free to reach out to us on our ~~WhatsApp Group~~ (edit: **REMOVED** )
 
 
 
@@ -65,9 +65,9 @@ Download should start anytime now. Install it.
 
 
 
-This post was brought to you by Anas Khan.
+This post was brought to you by [Anas Khan](https://in.linkedin.com/in/anxkhn).
 
-If you have any suggestions, drop an email - [anas@tsecgeeks.in](mailto:anas@tsecgeeks.in) 
+If you have any suggestions, drop an email - ~~anas@tsecgeeks.in~~ (edit: **REMOVED** )
 
 
 
