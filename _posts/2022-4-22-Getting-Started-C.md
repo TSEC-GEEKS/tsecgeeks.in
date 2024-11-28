@@ -80,8 +80,7 @@ Congratulations! Now you know how to get started with C.
 ---
 
 If you have anything to add here, you can email me on the address given below.
-Join our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
-
+Join our ~~WhatsApp Group~~ (edit: **REMOVED** )
 ---
 
-Posted by Siddharth Bhatia ([sid@tsecgeeks.in](mailto:siddharth@tsecgeeks.in))
+Posted by Siddharth Bhatia 

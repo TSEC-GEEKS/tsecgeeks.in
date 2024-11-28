@@ -19,6 +19,5 @@ CP Sem 2 Programs [#1](https://github.com/anxkhn/MU-C-Programming) [#2](https://
 [FE TSEC Resources doc](https://docs.google.com/document/d/1sU2QGSZ2bvsSytDvS51Gyw53NLL1g7pulpRpuodPEIM/edit?usp=sharing)
 
 ### Contact us
-[WhatsApp Group Invite](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
-
-[hello@tsecgeeks.in](mailto:hello@tsecgeeks.in)
+~~WhatsApp Group Invite~~ (edit: **REMOVED** )
+~~hello@tsecgeeks.in~~ (edit: **REMOVED** )

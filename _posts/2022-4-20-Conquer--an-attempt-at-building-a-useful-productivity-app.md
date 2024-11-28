@@ -57,4 +57,4 @@ As I said before, I have used React to build the web app and Firebase’s servic
 
 Thats all for today, hopefully I haven't bored you, thank you for patiently sticking with me. If you have any questions, thoughts etc. feel free to hit me up on any of my socials ([Twitter](https://twitter.com/devout_coder), [Insta](https://instagram.com/devout_coder), [Email](mailto:awessssomepro@gmail.com)).
 
-Feel free to reach out to any of us geeks on our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
+Feel free to reach out to any of us geeks on our ~~WhatsApp Group~~ (edit: **REMOVED** )

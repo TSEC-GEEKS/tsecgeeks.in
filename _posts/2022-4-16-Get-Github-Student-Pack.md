@@ -111,7 +111,7 @@ After doing this, you would be able to use GitHub Copilot.
 
 That's it, you are all set to for the hands-on learning experience.
 
-Feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl) 
+Feel free to reach out to us on our ~~WhatsApp Group~~ (edit: **REMOVED** )
 
 
 
@@ -121,9 +121,9 @@ Feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K
 
 
 
-This post was brought to you by Anas Khan.
+This post was brought to you by [Anas Khan](https://in.linkedin.com/in/anxkhn).
 
-If you have any suggestions, drop an email - [anas@tsecgeeks.in](mailto:anas@tsecgeeks.in) 
+If you have any suggestions, drop an email - ~~anas@tsecgeeks.in~~ (edit: **REMOVED** )
 
 
 

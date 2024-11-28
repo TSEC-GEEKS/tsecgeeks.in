@@ -69,12 +69,11 @@ Here they will ask you questions like how much can you pay for the course and *H
 
 
 posted by,
-**Sarah Khan** _co authored by Anas Khan._
+**Sarah Khan** _co authored by [Anas Khan](https://in.linkedin.com/in/anxkhn)._
 
 
 
-If you have any suggestions, drop an email - [hello@tsecgeeks.in](mailto:hello@tsecgeeks.in) 
+If you have any suggestions, drop an email - ~~hello@tsecgeeks.in~~ (edit: **REMOVED**)
 
 
-
-Feel free to reach out to us on our [WhatsApp Group](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl) 
+Feel free to reach out to us on our ~~WhatsApp Group~~ (edit: **REMOVED**)

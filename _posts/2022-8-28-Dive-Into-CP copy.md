@@ -115,10 +115,10 @@ Note: Writing the code is the easiest thing to do. Thinking about how should you
 
 If you are beginner and looking for peers or post contest discussions, you are free to join.
 
-[WhatsApp Group.](https://chat.whatsapp.com/JBDDrdrIMaOKFSRaE09Pd1)
+~~WhatsApp Group.~~ (edit: **REMOVED** )
 
 ----
 
-Authored by **Sarah Khan**, co-authored by Anas Khan.
+Authored by **Sarah Khan**, co-authored by [Anas Khan](https://in.linkedin.com/in/anxkhn).
 
 ----

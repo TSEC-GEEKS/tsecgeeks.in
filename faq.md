@@ -15,4 +15,6 @@ SKSKSKSKSKSKKSKSKSKS
 
 ### Contact us
 
-[hello@tsecgeeks.in](mailto:hello@tsecgeeks.in)
+[Anas Khan](https://in.linkedin.com/in/anxkhn)
+
+~~hello@tsecgeeks.in~~ (edit: **REMOVED** )

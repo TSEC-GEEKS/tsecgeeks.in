@@ -21,8 +21,10 @@ Oh, and this isn't your coding group—though we do talk about it— but it's mo
 
 ### Contact us
 
-Free free to connect with us on 
+Free free to connect with me on LinkedIn
 
-WhatsApp : [Invite](https://chat.whatsapp.com/K3NrW5tPwrsHhfbdYstjLl)
+[Anas Khan](https://in.linkedin.com/in/anxkhn)
 
-Email : [hello@tsecgeeks.in](mailto:hello@tsecgeeks.in)
+~~WhatsApp~~ (edit: **REMOVED**)
+
+~~Email~~ (edit: **REMOVED**)
